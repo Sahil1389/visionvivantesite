@@ -201,7 +201,7 @@ require __DIR__ . '/header.php';
   <div class="container">
     <div class="stats-grid">
       <div class="stat-modern reveal-up">
-        <strong data-count="150">0</strong><span>+</span><small>Projects delivered</small>
+        <strong data-count="1500">0</strong><span>+</span><small>Projects delivered</small>
       </div>
       <div class="stat-modern reveal-up">
         <strong data-count="100">0</strong><span>%</span><small>Client satisfaction</small>
@@ -1020,6 +1020,168 @@ require __DIR__ . '/header.php';
   </div>
 </section>
 
+<!-- ========== ai-blog-section ========== -->
+
+<!-- AI INSIGHTS & BLOGS -->
+<section class="vv-ai-insights" id="ai-insights">
+  <div class="vv-ai-insights-container">
+
+    <div class="vv-ai-insights-heading">
+      <div class="vv-ai-insights-intro">
+        <span class="vv-ai-eyebrow">
+          <span class="vv-ai-eyebrow-dot"></span>
+          INSIGHTS &amp; INNOVATION
+        </span>
+
+        <h2>
+          Exploring what's next<br>
+          with <span>Artificial Intelligence.</span>
+        </h2>
+
+        <p>
+          Fresh perspectives on AI, automation, intelligent software,
+          and the technology shaping tomorrow's businesses.
+        </p>
+      </div>
+
+      <a href="/blog.php" class="vv-ai-view-all">
+        View All Articles
+        <span><i class="bi bi-arrow-up-right"></i></span>
+      </a>
+    </div>
+
+    <div class="vv-ai-blog-grid">
+
+      <!-- Blog 1 -->
+      <article class="vv-ai-blog-card">
+        <a href="/blog-detail.php" class="vv-ai-blog-image">
+          <img
+            src="https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=900&q=85"
+            alt="Artificial intelligence and neural network technology"
+            loading="lazy">
+
+          <span class="vv-ai-image-tag">
+            <i class="bi bi-stars"></i> AI &amp; Automation
+          </span>
+
+          <span class="vv-ai-image-arrow">
+            <i class="bi bi-arrow-up-right"></i>
+          </span>
+        </a>
+
+        <div class="vv-ai-blog-content">
+          <div class="vv-ai-blog-meta">
+            <span><i class="bi bi-calendar3"></i> AI Insights</span>
+            <span class="vv-ai-meta-dot"></span>
+            <span>6 min read</span>
+          </div>
+
+          <h3>
+            <a href="/blog-detail.php">
+              How AI Agents Are Transforming Business Operations
+            </a>
+          </h3>
+
+          <p>
+            Discover how intelligent agents automate repetitive
+            workflows, improve productivity, and help teams make
+            smarter decisions.
+          </p>
+
+          <a href="/blog-detail.php" class="vv-ai-read-link">
+            Read Article <i class="bi bi-arrow-right"></i>
+          </a>
+        </div>
+      </article>
+
+      <!-- Blog 2 -->
+      <article class="vv-ai-blog-card">
+        <a href="/blog-detail.php" class="vv-ai-blog-image">
+          <img
+            src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=900&q=85"
+            alt="Connected digital world and data technology"
+            loading="lazy">
+
+          <span class="vv-ai-image-tag">
+            <i class="bi bi-diagram-3"></i> Generative AI
+          </span>
+
+          <span class="vv-ai-image-arrow">
+            <i class="bi bi-arrow-up-right"></i>
+          </span>
+        </a>
+
+        <div class="vv-ai-blog-content">
+          <div class="vv-ai-blog-meta">
+            <span><i class="bi bi-calendar3"></i> AI Insights</span>
+            <span class="vv-ai-meta-dot"></span>
+            <span>8 min read</span>
+          </div>
+
+          <h3>
+            <a href="/blog-detail.php">
+              Generative AI and the Future of Digital Products
+            </a>
+          </h3>
+
+          <p>
+            Explore how generative AI can power personalized
+            experiences, accelerate development, and unlock new
+            product possibilities.
+          </p>
+
+          <a href="/blog-detail.php" class="vv-ai-read-link">
+            Read Article <i class="bi bi-arrow-right"></i>
+          </a>
+        </div>
+      </article>
+
+      <!-- Blog 3 -->
+      <article class="vv-ai-blog-card">
+        <a href="/blog-detail.php" class="vv-ai-blog-image">
+          <img
+            src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=85"
+            alt="Computer hardware and intelligent technology"
+            loading="lazy">
+
+          <span class="vv-ai-image-tag">
+            <i class="bi bi-cpu"></i> AI Engineering
+          </span>
+
+          <span class="vv-ai-image-arrow">
+            <i class="bi bi-arrow-up-right"></i>
+          </span>
+        </a>
+
+        <div class="vv-ai-blog-content">
+          <div class="vv-ai-blog-meta">
+            <span><i class="bi bi-calendar3"></i> Engineering</span>
+            <span class="vv-ai-meta-dot"></span>
+            <span>7 min read</span>
+          </div>
+
+          <h3>
+            <a href="/blog-detail.php">
+              Building Smarter Applications with RAG and LLMs
+            </a>
+          </h3>
+
+          <p>
+            Learn how retrieval-augmented generation connects
+            language models with your business knowledge to deliver
+            more relevant AI-powered answers.
+          </p>
+
+          <a href="/blog-detail.php" class="vv-ai-read-link">
+            Read Article <i class="bi bi-arrow-right"></i>
+          </a>
+        </div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- ========== END ========== -->
 
 <!-- ================= CONTACT US ================= -->
 <section class="contact-us-section" id="contactUs">

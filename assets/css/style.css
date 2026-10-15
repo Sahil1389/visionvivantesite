@@ -203,7 +203,7 @@ a {
     top: 0;
     width: 100%;
     z-index: 1000;
-    background: linear-gradient(180deg, #000000, #00000000);
+    background: linear-gradient(180deg, #00000059, #00000000);
 }
 
 .vv-navbar.scrolled {
